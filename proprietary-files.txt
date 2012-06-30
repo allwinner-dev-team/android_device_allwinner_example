@@ -1,0 +1,9 @@
+# EGL libs and dependencies
+lib/egl/libGLESv2_mali.so
+lib/egl/libGLESv1_CM_mali.so
+lib/egl/libEGL_mali.so
+lib/libMali.so
+lib/libUMP.so
+
+# 3G Modem RIL
+lib/liballwinner-ril.so
